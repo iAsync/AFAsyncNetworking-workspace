@@ -1,0 +1,10 @@
+[submodule "iAsync"]
+	path = iAsync
+	url = https://github.com/EmbeddedSources/iAsync.git
+	branch = SC
+[submodule "AFAsyncNetworking"]
+	path = AFAsyncNetworking
+	url = https://github.com/iAsync/AFAsyncNetworking.git
+[submodule "AFNetworking"]
+	path = AFNetworking
+	url = https://github.com/iAsync/AFNetworking.git
