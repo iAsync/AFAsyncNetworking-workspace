@@ -4,7 +4,8 @@ AFAsyncNetworking-workspace
  A libraries workspace for to quickly get started with  iAsync and AFNetworking.
 
 
-To get started : 
+# Getting started 
+
 1. Clone the repository with submodules
 ```
 git clone --recursive https://github.com/iAsync/AFAsyncNetworking-workspace.git
