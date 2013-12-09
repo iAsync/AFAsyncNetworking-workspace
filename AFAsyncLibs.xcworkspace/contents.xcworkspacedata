@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:LICENSE">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "lib">
+      <FileRef
+         location = "group:AFNetworking/AFNetworking/AFNetworking/AFNetworking.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:AFAsyncNetworking/AFAsyncNetworking.xcodeproj">
+      </FileRef>
+      <Group
+         location = "container:"
+         name = "iAsync">
+         <FileRef
+            location = "group:iAsync/lib/JFFUtils/JFFUtils.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:iAsync/lib/JFFScheduler/JFFScheduler.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:iAsync/lib/JFFAsyncOperations/JFFAsyncOperations.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
